@@ -17,10 +17,7 @@ namespace ossOffice.Controllers
 
             try
             {
-                var b = new byte[2];
-                b[0] = 65;
-                b[1] = 66;
-                result.Result = b;
+  
             }
             catch (Exception ex)
             {
